@@ -1,0 +1,32 @@
+[
+    {
+        "month":"Jan",
+        "year":"2022",
+        "title":"Kick Off",
+        "description": ["- website launch","- opening social channels", "- live on Twitch", "- kick off Viking Rush"]
+    },
+    {
+        "month":"Feb",
+        "year":"2022",
+        "title":"Viking Rush alpha development",
+        "description": ["- presale and launch Valknut ICO Token","- presentation of the first NFTs", "- start marketing campaigns", "- Viking Rush alpha release"]
+    },
+    {
+        "month":"Mar",
+        "year":"2022",
+        "title":"drop of the first NFTs",
+        "description": ["- Viking Rush closed beta release","- Beta opening to whitelisted users","- drop of the first NFTs"]
+    },
+    {
+        "month":"Apr",
+        "year":"2022",
+        "title":"Viking Rush open beta",
+        "description": ["- opening the Viking Rush beta","- platform for the exchange of game tokens","- adding seasons in Viking Rush"]
+    },
+    {
+        "month":"May",
+        "year":"2022",
+        "title":"Solar Engine",
+        "description": ["- Viking Rush candidate release","- integration with the solar ecosystem"]
+    }
+]

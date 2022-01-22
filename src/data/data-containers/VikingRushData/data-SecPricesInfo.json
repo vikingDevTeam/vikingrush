@@ -1,0 +1,26 @@
+[
+    {
+        "type":1,
+        "Round":"FLASH ROUND",
+        "dollar":"1 BNB = 200.000.000 Token",
+        "minmax": "min 0.2 BNB - max 2 BNB",
+        "maxtoken": "VLK sale 2%",
+        "bonus":"60%"
+    },
+    {
+        "type":2,
+        "Round":"PRIVATE",
+        "dollar":"1 BNB = 123.000.000 Token",
+        "minmax": "min 0.2 BNB - max 2 BNB",
+        "maxtoken": "VLK sale 8%",
+        "bonus":"35%"
+    },
+    {
+        "type":3,
+        "Round":"PRESALE",
+        "dollar":"1 BNB = 94.000.000 Token",
+        "minmax": "min 0.2 BNB - max 2 BNB",
+        "maxtoken": "VLK sale 20%",
+        "bonus":"15%"
+    }
+]

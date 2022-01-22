@@ -1,0 +1,32 @@
+[
+    {
+        "Steps":"one",
+        "title":"Token Name",
+        "text":"Valknut",
+        "addMargin0":false
+    },
+    {
+        "Steps":"four",
+        "title":"Token Symbol",
+        "text":"VLK",
+        "addMargin0":false
+    },
+    {
+        "Steps":"three",
+        "title":"Platform",
+        "text":"BSC based",
+        "addMargin0":false
+    },
+    {
+        "Steps":"two",
+        "title":"Valknut Private starts in",
+        "text":"February 01-15, 2022",
+        "addMargin0":false
+    },
+    {
+        "Steps":"five",
+        "title":"Price in ICO",
+        "text":"1 BNB = 80.000.000 VLK Token",
+        "addMargin0":true
+    }
+]

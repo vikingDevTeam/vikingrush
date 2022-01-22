@@ -1,0 +1,22 @@
+[
+	{
+		"path":"#price",
+		"nameLink":"Price"
+	},
+	{
+		"path":"#buy",
+		"nameLink":"Buy Token"
+	},
+	{
+		"path":"#distribution",
+		"nameLink":"Distribution"
+	},
+	{
+		"path":"#roadmap",
+		"nameLink":"Roadmap"
+	},
+	{
+		"path":"#faq",
+		"nameLink":"FAQ"
+	}
+]

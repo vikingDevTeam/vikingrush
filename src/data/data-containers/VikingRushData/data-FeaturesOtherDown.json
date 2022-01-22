@@ -1,0 +1,32 @@
+[
+    {
+        "Steps":"one",
+        "title":"Total Supply",
+        "text":"100.000.000.000",
+        "addMargin0":false
+    },
+    {
+        "Steps":"four",
+        "title":"Token Soft cap",
+        "text":"20 BNB",
+        "addMargin0":false
+    },
+    {
+        "Steps":"six",
+        "title":"Token Hard Cap",
+        "text":"65 BNB",
+        "addMargin0":false
+    },
+    {
+        "Steps":"two",
+        "title":"Sold Tokens",
+        "text":"0 Token",
+        "addMargin0":false
+    },
+    {
+        "Steps":"seven",
+        "title":"Remaining Tokens",
+        "text":"8.000.000.000 Token",
+        "addMargin0":true
+    }
+]

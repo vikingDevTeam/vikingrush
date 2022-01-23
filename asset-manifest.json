@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vikingrush/static/css/main.fed1d787.chunk.css",
-    "main.js": "/vikingrush/static/js/main.1a99676e.chunk.js",
-    "main.js.map": "/vikingrush/static/js/main.1a99676e.chunk.js.map",
+    "main.js": "/vikingrush/static/js/main.ddf5700d.chunk.js",
+    "main.js.map": "/vikingrush/static/js/main.ddf5700d.chunk.js.map",
     "runtime-main.js": "/vikingrush/static/js/runtime-main.02003654.js",
     "runtime-main.js.map": "/vikingrush/static/js/runtime-main.02003654.js.map",
     "static/css/2.efcff666.chunk.css": "/vikingrush/static/css/2.efcff666.chunk.css",
@@ -64,6 +64,6 @@
     "static/css/2.efcff666.chunk.css",
     "static/js/2.0b8e3cb9.chunk.js",
     "static/css/main.fed1d787.chunk.css",
-    "static/js/main.1a99676e.chunk.js"
+    "static/js/main.ddf5700d.chunk.js"
   ]
 }

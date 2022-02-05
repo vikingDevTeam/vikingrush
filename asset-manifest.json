@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.a680b8c6.chunk.css",
-    "main.js": "/static/js/main.4d266748.chunk.js",
-    "main.js.map": "/static/js/main.4d266748.chunk.js.map",
+    "main.css": "/static/css/main.b64e9463.chunk.css",
+    "main.js": "/static/js/main.ce0169b0.chunk.js",
+    "main.js.map": "/static/js/main.ce0169b0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ee8fdcfb.js",
     "runtime-main.js.map": "/static/js/runtime-main.ee8fdcfb.js.map",
     "static/css/2.efcff666.chunk.css": "/static/css/2.efcff666.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.6caf51fe.chunk.js.map": "/static/js/3.6caf51fe.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.efcff666.chunk.css.map": "/static/css/2.efcff666.chunk.css.map",
-    "static/css/main.a680b8c6.chunk.css.map": "/static/css/main.a680b8c6.chunk.css.map",
+    "static/css/main.b64e9463.chunk.css.map": "/static/css/main.b64e9463.chunk.css.map",
     "static/js/2.a1323152.chunk.js.LICENSE.txt": "/static/js/2.a1323152.chunk.js.LICENSE.txt",
     "static/media/1.1bee5491.png": "/static/media/1.1bee5491.png",
     "static/media/2.b86d1303.png": "/static/media/2.b86d1303.png",
     "static/media/3.4b719829.png": "/static/media/3.4b719829.png",
     "static/media/4.c5ab4e96.png": "/static/media/4.c5ab4e96.png",
     "static/media/VikingRush_Whitepaper_en.08fec5c9.pdf": "/static/media/VikingRush_Whitepaper_en.08fec5c9.pdf",
-    "static/media/VikingRush.scss": "/static/media/header-app.7290ef0c.png",
+    "static/media/VikingRush.scss": "/static/media/header.60e5b2e7.png",
     "static/media/about-3.f100d014.png": "/static/media/about-3.f100d014.png",
     "static/media/bnb-logo.d8c61230.svg": "/static/media/bnb-logo.d8c61230.svg",
     "static/media/computer.d4552c2f.png": "/static/media/computer.d4552c2f.png",
@@ -50,7 +50,7 @@
     "static/media/graph-11.205ae3dd.png": "/static/media/graph-11.205ae3dd.png",
     "static/media/hero-img.baffd3f1.png": "/static/media/hero-img.baffd3f1.png",
     "static/media/iphone.d3f4ec0d.png": "/static/media/iphone.d3f4ec0d.png",
-    "static/media/logo.c9fc3071.png": "/static/media/logo.c9fc3071.png",
+    "static/media/logo2.0dd7ef0b.png": "/static/media/logo2.0dd7ef0b.png",
     "static/media/pattern.2be3aa0c.png": "/static/media/pattern.2be3aa0c.png",
     "static/media/pie.6b9cc3ca.svg": "/static/media/pie.6b9cc3ca.svg",
     "static/media/platform.721321de.png": "/static/media/platform.721321de.png",
@@ -61,7 +61,7 @@
     "static/media/s3.27715f68.svg": "/static/media/s3.27715f68.svg",
     "static/media/s4.ae1ff16a.svg": "/static/media/s4.ae1ff16a.svg",
     "static/media/secure-payment.bbbf8209.svg": "/static/media/secure-payment.bbbf8209.svg",
-    "static/media/viking_test.cb350c48.png": "/static/media/viking_test.cb350c48.png",
+    "static/media/viking_test.879b8b14.png": "/static/media/viking_test.879b8b14.png",
     "static/media/vlk.257057f6.svg": "/static/media/vlk.257057f6.svg",
     "static/media/whitepaper.b38f11fb.png": "/static/media/whitepaper.b38f11fb.png"
   },
@@ -69,7 +69,7 @@
     "static/js/runtime-main.ee8fdcfb.js",
     "static/css/2.efcff666.chunk.css",
     "static/js/2.a1323152.chunk.js",
-    "static/css/main.a680b8c6.chunk.css",
-    "static/js/main.4d266748.chunk.js"
+    "static/css/main.b64e9463.chunk.css",
+    "static/js/main.ce0169b0.chunk.js"
   ]
 }
